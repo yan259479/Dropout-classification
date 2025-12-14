@@ -17,7 +17,7 @@ The task is formulated as a binary classification problem with a focus on identi
 
 ## Environment
 - Python 3.x  
-- Core libraries: pandas, numpy, scikit-learn, matplotlib, seaborn  
+- Core libraries: pandas, numpy, scikit-learn, matplotlib, seaborn,shap
 
 (Exact package versions can be added via an environment.yml file if needed.)
 
@@ -29,6 +29,7 @@ The task is formulated as a binary classification problem with a focus on identi
 ## Data
 The dataset is not included in this repository due to size or access restrictions.  
 Please refer to the course-provided data source for download instructions.
+prepared-data (used for training and test) is in the data file.
 
 ## Results
 Model performance is evaluated using appropriate classification metrics.  
