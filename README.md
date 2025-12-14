@@ -28,8 +28,10 @@ The task is formulated as a binary classification problem with a focus on identi
 
 ## Data
 The dataset is not included in this repository due to size or access restrictions.  
-Please refer to the course-provided data source for download instructions.
-prepared-data (used for training and test) is in the data file.
+The raw data can be accessed via Google Drive:
+[course-provided data source](https://drive.google.com/drive/folders/1b8WngZk8k7ZFcq4xd9xD2ut_LeooPfeW?usp=drive_link) 
+for download instructions.
+encoded-data (used for training and test) is in the data file.
 
 ## Results
 Model performance is evaluated using appropriate classification metrics.  
